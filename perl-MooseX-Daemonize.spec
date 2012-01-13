@@ -8,13 +8,13 @@
 Summary:	MooseX::Daemonize - Role for daemonizing your Moose based application
 Summary(pl.UTF-8):	MooseX::Daemonize - narzędzie do tworzenia demonów z aplikacji opartych o Moose
 Name:		perl-MooseX-Daemonize
-Version:	0.08
-Release:	2
+Version:	0.13
+Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/MooseX/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	24ff349f0e2e09ca89e8ecbc73b0dc65
+# Source0-md5:	fede7bd0885a41e2156afea00b19cf5a
 URL:		http://search.cpan.org/dist/MooseX-Daemonize/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
