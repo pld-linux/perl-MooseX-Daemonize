@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	MooseX
 %define	pnam	Daemonize
 Summary:	MooseX::Daemonize - Role for daemonizing your Moose based application
